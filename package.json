@@ -1,0 +1,26 @@
+{
+  "name": "box-of-items",
+  "version": "1.0.0",
+  "description": "Fetch items randomly in a box.",
+  "main": "src/index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "node examples/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iREDMe/box-of-items.git"
+  },
+  "keywords": [
+    "box",
+    "items"
+  ],
+  "author": "iREDMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iREDMe/box-of-items/issues"
+  },
+  "homepage": "https://github.com/iREDMe/box-of-items#readme"
+}
